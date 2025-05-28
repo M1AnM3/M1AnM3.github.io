@@ -1,3 +1,3 @@
-No se xd. Algo más
+No se xd. Algo mas
 
 fhdjsi
