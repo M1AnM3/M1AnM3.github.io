@@ -1,0 +1,17 @@
+title: "Blog de Miguel"
+description: "Un blog donde escribo cosas de matemáticas"
+author: Miguel Mejía
+locale: es_ES
+email: zeprysoul@gmail.com
+url: "https://m1anm3.github.io/"
+twitter_username: null
+github_username: m1anm3
+youtube_url: https://youtube.com/@zepryster261
+markdown: kramdown
+theme: minima
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
