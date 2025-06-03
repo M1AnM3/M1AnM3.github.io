@@ -1,6 +1,4 @@
 title: Blog de Matemáticas
-description: "Un blog donde escribo cosas de matemáticas"
-author: Miguel Mejía
 markdown: kramdown
 theme: minima
 plugins:
