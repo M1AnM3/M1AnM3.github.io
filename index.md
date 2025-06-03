@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: home
 title: Bienvenido
 ---
 
