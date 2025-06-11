@@ -16,7 +16,9 @@ $$
 \{x\in X\mid\forall y, \pi(x,y)\}.
 $$
 
-<iframe src="assets/IngLin.pdf" width="100%" height="600px">
+<a href="m1anm3.github.io/assets/IngLin.pdf" target="_blank">PDF.</a>
+
+<iframe src="m1anm3.github.io/assets/IngLin.pdf" width="100%" height="600px">
   Este navegador no soporta PDFs. Puedes descargarlo
-  <a href="assets/IngLin.pdf">aquí</a>.
+  <a href="m1anm3.github.io/assets/IngLin.pdf">aquí</a>.
 </iframe>
