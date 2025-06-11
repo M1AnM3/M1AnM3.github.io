@@ -15,3 +15,5 @@ Bla $$1+1\in\mathcal{R}$$.
 $$
 \{x\in X\mid\forall y, \pi(x,y)\}.
 $$
+
+[Ver doc en PDF](assets/IngLin.pdf)
