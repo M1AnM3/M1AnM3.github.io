@@ -7,8 +7,8 @@ url: "https://m1anm3.github.io/"
 twitter_username: null
 github_username: m1anm3
 youtube_url: https://youtube.com/@zepryster261
-markdown: kramdown
 theme: minima
+markdown: kramdown
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
