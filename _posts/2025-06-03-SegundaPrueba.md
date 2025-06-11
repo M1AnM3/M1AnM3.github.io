@@ -16,4 +16,7 @@ $$
 \{x\in X\mid\forall y, \pi(x,y)\}.
 $$
 
-[Ver doc en PDF](assets/IngLin.pdf)
+<iframe src="assets/recetario.pdf" width="100%" height="600px">
+  Este navegador no soporta PDFs. Puedes descargarlo
+  <a href="assets/recetario.pdf">aquí</a>.
+</iframe>
