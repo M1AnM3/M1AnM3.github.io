@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Una demostración de la infinitud de los números primos"
-date: 2025-06-25
+date: 2025-11-24
 ---
 
 <script type="text/javascript" async
@@ -20,11 +20,15 @@ de números. De cierta manera es una generalización de la demostración de Eucl
 </iframe>
 
 Mi duda ahora es si esto de generalizar la demostración de Euclides es útil para demostrar que otros conjuntos
-de números son infinitos. Por ejemplo, para el conjunto de los números primos gemelos $$\mathbb{P}_{2}$$ es como tal un
+de números son infinitos. Por ejemplo, el conjunto de los números primos gemelos $$\mathbb{P}_{1}$$ es como tal un
 subconjunto del conjunto de los números primos $$\mathbb{P}$$ y tenemos que
 
 $$
-\{1\} = \operatorname{Cop}_{*}(\mathbb{P}) \subseteq \operatorname{Cop}_{*}(\mathbb{P}_{2}).
+\{1\} = \operatorname{Cop}_{*}(\mathbb{P}) \subseteq \operatorname{Cop}_{*}(\mathbb{P}_{1}).
 $$
 
-Y de aquí no se como seguir si les soy sincero.
+Luego, por otro lado
+
+$$
+\operatorname{Cop}_{*}(\mathbb{P}\setminus\mathbb{P}_{1})\cap\operatorname{Cop}_{*}(\mathbb{P}_{1}) = \{1\}.
+$$
