@@ -20,15 +20,18 @@ de números. De cierta manera es una generalización de la demostración de Eucl
 </iframe>
 
 Mi duda ahora es si esto de generalizar la demostración de Euclides es útil para demostrar que otros conjuntos
-de números son infinitos. Por ejemplo, el conjunto de los números primos gemelos $$\mathbb{P}_{1}$$ es como tal un
-subconjunto del conjunto de los números primos $$\mathbb{P}$$ y tenemos que
+de números son infinitos. Por ejemplo, el conjunto de los números pares $$2\mathbb{Z}^{+}$$ satisface que
 
 $$
-\{1\} = \operatorname{Cop}_{*}(\mathbb{P}) \subseteq \operatorname{Cop}_{*}(\mathbb{P}_{1}).
+\operatorname{Cop}_{*}(2\mathbb{Z}^{+}) = \emptyset.
 $$
 
-Luego, por otro lado
+Lo anterior es trivial, pero su complemento $$\mathbb{Z}^{+}\setminus 2\mathbb{Z}^{+}$$, que es igual un
+conjunto infinito, satisface que su imagen $$\operatorname{Cop}_{*}(\mathbb{Z}^{+}\setminus 2\mathbb{Z}^{+})$$
+es infinita ya que 
 
 $$
-\operatorname{Cop}_{*}(\mathbb{P}\setminus\mathbb{P}_{1})\cap\operatorname{Cop}_{*}(\mathbb{P}_{1}) = \{1\}.
+\{2^{n}\in\mathbb{Z}^{+}\mid n\in\mathbb{Z}^{+}\} \subseteq \operatorname{Cop}_{*}(\mathbb{Z}^{+}\setminus 2\mathbb{Z}^{+}).
 $$
+
+Esto nos dice que es posible que si $$X$$ infinito, entonces $$\operatorname{Cop}_{*}(X)$$ es infinito.
