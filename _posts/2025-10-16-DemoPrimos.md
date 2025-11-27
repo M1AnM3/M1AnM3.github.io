@@ -23,7 +23,7 @@ Mi duda ahora es si esto de generalizar la demostración de Euclides es útil pa
 de números son infinitos. Por ejemplo, el conjunto de los números pares $$2\mathbb{Z}^{+}$$ satisface que
 
 $$
-\operatorname{Cop}_{*}(2\mathbb{Z}^{+}) = \emptyset.
+\operatorname{Cop}_{*}(2\mathbb{Z}^{+}) = \{1\}}.
 $$
 
 Lo anterior es trivial, pero su complemento $$\mathbb{Z}^{+}\setminus 2\mathbb{Z}^{+}$$, que es igual un
